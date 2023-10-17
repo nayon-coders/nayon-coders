@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **nayon.coders@gmail.com / <a href="https://wa.me/01814569747">Whatsapp</a>**
 
-- 📄 Know about my experiences [https://youtu.be/ZD9zhJAfCT4?si=p0AyyT-Ysj1GUG58](YouTube Video)
+- 📄 Know about my experiences **<a href="https://youtu.be/ZD9zhJAfCT4?si=p0AyyT-Ysj1GUG58">Check Video</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
