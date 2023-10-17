@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, AI**
 
-- 👨‍💻 All of my projects are available at **<a href="http://nayon.coders.unaux.com">nayon.coders</a>**
+- 👨‍💻 All of my projects are available at **<a href="http://nayon.coders.unaux.com">www.nayon.coders</a>**
 
 - 📝 I regularly write articles on [Quora, Stack Over Flow etc.](Quora, Stack Over Flow etc.)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **nayon.coders@gmail.com / <a href="https://wa.me/01814569747">Whatsapp</a>**
 
-- 📄 Know about my experiences [https://youtu.be/ZD9zhJAfCT4?si=p0AyyT-Ysj1GUG58](https://youtu.be/ZD9zhJAfCT4?si=p0AyyT-Ysj1GUG58)
+- 📄 Know about my experiences [https://youtu.be/ZD9zhJAfCT4?si=p0AyyT-Ysj1GUG58](YouTube Video)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
