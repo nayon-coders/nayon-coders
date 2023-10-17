@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Dart, Flutter, PHP, JavaScript, HTML, CSS, MySQL, Firebase...**
 
-- 📫 How to reach me **nayon.coders@gmail.com / +8801814569747 (Whatsapp)**
+- 📫 How to reach me **nayon.coders@gmail.com / <a href="https://wa.me/01814569747">Whatsapp</a>**
 
 - 📄 Know about my experiences [https://youtu.be/ZD9zhJAfCT4?si=p0AyyT-Ysj1GUG58](https://youtu.be/ZD9zhJAfCT4?si=p0AyyT-Ysj1GUG58)
 
