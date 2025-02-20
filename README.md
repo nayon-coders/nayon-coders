@@ -6,17 +6,15 @@
 
 
 
-- 🌱 I’m currently learning **Python, AI**
 
-- 👨‍💻 All of my projects are available at **<a href="https://nayon-coders.bright-futureit.com">www.nayon-coders.com</a>**
+### 👨‍💻 About Me  
+- 🔥 I specialize in **Flutter Development** (Android, iOS, Web, Desktop, Mac).  
+- 🎨 Skilled in **UI/UX Design**, creating seamless and interactive user experiences.  
+- 🌱 Currently diving deep into **Python & AI** to expand my expertise.  
+- 💡 Ask me about **Dart, Flutter, PHP, JavaScript, MySQL, Firebase, and more!**  
+- 📝 I love sharing knowledge—read my articles on **Quora, Stack Overflow, etc.**  
+- 🎯 Check out all my projects at **[www.nayon-coders.com](https://nayon-coders.bright-futureit.com)**  
 
-- 📝 I regularly write articles on [Quora, Stack Over Flow etc.](Quora, Stack Over Flow etc.)
-
-- 💬 Ask me about **Dart, Flutter, PHP, JavaScript, HTML, CSS, MySQL, Firebase...**
-
-- 📫 How to reach me **nayon.coders@gmail.com / <a href="https://wa.me/01814569747">Whatsapp</a>**
-
-- 📄 Know about my experiences **<a href="https://youtu.be/ZD9zhJAfCT4?si=p0AyyT-Ysj1GUG58">Check Video</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
