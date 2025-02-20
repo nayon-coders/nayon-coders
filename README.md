@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, AI**
 
-- 👨‍💻 All of my projects are available at **<a href="http://nayon.coders.unaux.com">www.nayon.coders</a>**
+- 👨‍💻 All of my projects are available at **<a href="https://nayon-coders.bright-futureit.com">www.nayon-coders.com</a>**
 
 - 📝 I regularly write articles on [Quora, Stack Over Flow etc.](Quora, Stack Over Flow etc.)
 
